@@ -120,7 +120,7 @@ _A continuacion los pasos de instalación._
 6. Correr las migraciones
 7. Ejecutar el servidor
 
-# Nota: si se presenta algun error correr el comando:
+7. Nota: si se presenta algun error correr el comando:
     ```sh
    php artisan config:cache
    ```
